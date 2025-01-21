@@ -8,3 +8,5 @@ A simple PS script that set up you machine:
 - Removes all app in winget_uninstalls.txt
 - Removed all desktop shortcuts and adds "This PC" and User dir
 - Sets the theme to dark
+- Install WSL2
+- Runs Chris Titus Tech tool
