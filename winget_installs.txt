@@ -19,3 +19,5 @@ XP89DCGQ3K6VLD
 BinanceTech.Binance
 Google.GoogleDrive
 Insomnia.Insomnia
+LocalSend.LocalSend
+Ultimaker.Cura
